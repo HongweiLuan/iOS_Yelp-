@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YelpViewController.h
 //  myYelpStudy
 //
 //  Created by Jiaoyuan Huang on 5/28/17.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface YelpViewController : UIViewController
 
 
 @end
